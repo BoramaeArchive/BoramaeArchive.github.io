@@ -39,7 +39,7 @@ data =
     {
       "position": ["37.4947512", "126.75401356"],
       "type": "center",
-      "title": "복사골 문화센터 dmz",
+      "title": "부천시청소년센터 dmz",
       "pic": "복사골dmz.jpg",
       "place":"복사골",
       "link" : "https://boramaearchive.notion.site/DMZ-bb67fc4439244480ba2f0be9d0e16913",
@@ -49,7 +49,7 @@ data =
     {
       "position": ["37.4947512", "126.75401356"],
       "type": "center",
-      "title": "복사골 문화센터 아트홀",
+      "title": "부천시청소년센터 아트홀",
       "pic": "복사골 아트홀.jpg",
       "place":"복사골",
       "link" : "https://boramaearchive.notion.site/8c3967dca5764cb4bdfe3c99d4ca3720",
@@ -59,7 +59,7 @@ data =
     {
       "position": ["37.4947512", "126.75401356"],
       "type": "center",
-      "title": "복사골 문화센터 판타지아 극장",
+      "title": "부천시청소년센터 판타지아 극장",
       "pic": "복사골 판타지아.jpg",
       "place":"복사골",
       "link" : "https://boramaearchive.notion.site/1961f33b3ea243fc8587cacf2b0cc356",
