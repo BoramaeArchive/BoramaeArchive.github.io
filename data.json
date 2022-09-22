@@ -528,7 +528,7 @@ data =
     {
       "position": ["37.5023180", "126.7665646" ],
       "type": "stage",
-      "title": "부천 아트센터 대공연장",
+      "title": "부천아트센터 대공연장",
       "pic": "아트대공.png",
       "place":"아트센터",
       "link" : "https://boramaearchive.notion.site/f7a3a2db50c245048c7d12014ae4220f",
@@ -538,7 +538,7 @@ data =
     {
       "position": ["37.5023180", "126.7665646" ],
       "type": "stage",
-      "title": "부천 아트센터 소공연장",
+      "title": "부천아트센터 소공연장",
       "pic": "아트소공.jpg",
       "place":"아트센터",
       "link" : "https://boramaearchive.notion.site/b6681c21e156406b97cfbadd656ac739",
@@ -548,7 +548,7 @@ data =
     {
       "position": ["37.5023180", "126.7665646" ],
       "type": "stage",
-      "title": "부천 아트센터 연습실",
+      "title": "부천아트센터 연습실",
       "pic": "아트연습.jpg",
       "place":"아트센터",
       "link" : "https://boramaearchive.notion.site/07e26e6182a34dd49a6a2048efeb211b",
